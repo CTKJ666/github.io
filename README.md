@@ -8,6 +8,6 @@
 </HEAD>
 <BODY LINK="#0000ff" VLINK="#800080">
 
-<B><FONT FACE="行书" LANG="ZH-CN" SIZE=7><P ALIGN="CENTER">天祥</P>
+<B><FONT FACE="行书" LANG="ZH-CN" SIZE=10><P ALIGN="CENTER">努力到无能为力，拼搏到感恩自己。</P>
 </FONT><P ALIGN="CENTER">
 </HTML>
